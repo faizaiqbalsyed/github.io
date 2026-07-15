@@ -111,7 +111,7 @@ body {
     <h2 class="section-title">Languages</h2>
     <ul>
         <li>English (CEFR C1)</li>
-        <li>Deutsch (CEFR A2)</li>
+        <li>Deutsch (CEFR B1)</li>
     </ul>
 </div>
 
