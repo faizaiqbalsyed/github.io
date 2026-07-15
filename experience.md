@@ -30,13 +30,13 @@ website, web portals, and server. I also managed the QOBE software, ensuring its
 - Lead an innovative project to transform grading systems and bring about positive change.
 
 ### Talks & Workshops
-- **Abstract Presentation** — Cyprus Workshop on Signal Processing and Informatics (Hybrid), July 14, 2026
+- **Abstract Presentation**: Cyprus Workshop on Signal Processing and Informatics (Hybrid), July 14, 2026
 Title: A Comprehensive XAI Framework with Handcrafted Speech Features for Alzheimer’s Dementia Screening
 
-- **"AI For Everyone"** Workshop — SZABTECH, February 18, 2026
+- **"AI For Everyone"** Workshop: SZABTECH, February 18, 2026
 Delivered an introductory AI workshop for a mixed audience of students covering core AI concepts and real-world applications through hands-on demonstrations.
 
 Simplified complex AI/ML topics for non-technical attendees, sparking discussion on how AI tools can be applied across different fields of study and work.
   
-- **"NLP Launchpad"** Workshop — SZABIST University, October 24, 2025
+- **"NLP Launchpad"** Workshop: SZABIST University, October 24, 2025
 This session introduces the essential foundations of Natural Language Processing (NLP), from text preprocessing and part-of-speech (POS) tagging to n-gram modeling and text classification. You’ll also learn how to visualize linguistic data using word clouds and explore how these core techniques power modern language understanding systems.
