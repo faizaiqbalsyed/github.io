@@ -5,7 +5,7 @@ title: Experience
 
 
 ### Lecturer - SZABIST University - (August 2025 - Present)
-- **SZABIST University** | **Hyderabad, Pakistan**
+- **[SZABIST University](https://www.hyd.szabist.edu.pk/academics.html#faculty)** | **Hyderabad, Pakistan**
 
 - Teaching undergraduate and graduate courses in Data Science, AI, and Machine Learning.
 - Supervising student research and capstone projects — 3 projects supervised in the 2025–2026 session.
