@@ -5,13 +5,13 @@ title: Experience
 
 
 ### Lecturer - SZABIST University
-- **SZABIST University** | **Hyderabad, Pakistan - (2025 - Present)**
+- **SZABIST University** | **Hyderabad, Pakistan - (August 2025 - Present)**
 
 - Teaching undergraduate and graduate courses in Data Science, AI, and Machine Learning.
 - Supervising student research and capstone projects — 3 projects supervised in the 2025–2026 session.
 
 
-### Instructor - HCIA-AI Course (July 2025)
+### Instructor - HCIA-AI Course (July 2026 - Present)
 - Serving as Instructor for the HCIA-AI (Huawei Certified ICT Associate – AI) Course, 2026.
 
 ### Research Assistant - RADAR (Record Access and DAta Retrieval Center)
