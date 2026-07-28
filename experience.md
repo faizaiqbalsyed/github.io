@@ -40,3 +40,6 @@ Simplified complex AI/ML topics for non-technical attendees, sparking discussion
   
 - **"NLP Launchpad"** Workshop: SZABIST University, October 24, 2025
 This session introduces the essential foundations of Natural Language Processing (NLP), from text preprocessing and part-of-speech (POS) tagging to n-gram modeling and text classification. You’ll also learn how to visualize linguistic data using word clouds and explore how these core techniques power modern language understanding systems.
+
+- **SMM Workshop**: (Interspeech 2024 – Presenter) Presented paper titled ”An Explainable AI Approach to
+Speech-Based Alzheimer’s Dementia Screening”, published by ISCA.
